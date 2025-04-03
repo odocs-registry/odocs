@@ -1,0 +1,15 @@
+{
+  "name": "odocs-common",
+  "version": "0.1.0",
+  "description": "Common utilities and types for ODocs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

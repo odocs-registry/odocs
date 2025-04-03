@@ -1,0 +1,17 @@
+{
+  "get_package_documentation": {
+    "description": "Get documentation for a specific package and version",
+    "parameters": {
+      "package": {
+        "type": "string",
+        "description": "The name of the package (e.g., 'hono')"
+      },
+      "version": {
+        "type": "string",
+        "description": "The version of the package (e.g., '4.7.5')",
+        "default": "latest"
+      }
+    },
+    "required": ["package"]
+  }
+}

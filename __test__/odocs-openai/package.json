@@ -1,0 +1,14 @@
+{
+  "name": "odocs-openai",
+  "version": "0.1.0",
+  "description": "Simple demo for ODocs with OpenAI integration",
+  "main": "demo.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "openai": "^4.30.0",
+    "dotenv": "^16.4.1"
+  },
+  "type": "module"
+}

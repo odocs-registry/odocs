@@ -1,0 +1,51 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build output
+dist
+build
+out
+.next
+.output
+.vercel
+
+# Testing
+coverage
+
+# Misc
+.DS_Store
+*.pem
+.env*
+!.env.example
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories
+.idea
+.vscode
+*.sublime-*
+
+# Next.js specific
+.next/
+out/
+.cache/
+public/sw.js
+public/workbox-*.js
+public/worker-*.js
+public/sw.js.map
+public/workbox-*.js.map
+public/worker-*.js.map
+next-env.d.ts
+
+# Turbo
+.turbo
+
+# Cache directories
+.npm
+.eslintcache
