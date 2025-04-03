@@ -1,6 +1,7 @@
 {
-  "name": "odocs-openai",
+  "name": "@odocs/odocs-openai-example",
   "version": "0.1.0",
+  "private": true,
   "description": "Simple demo for ODocs with OpenAI integration",
   "main": "demo.js",
   "author": "",

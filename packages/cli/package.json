@@ -1,6 +1,6 @@
 {
-  "name": "odocs-cli",
-  "version": "0.1.0",
+  "name": "@odocs/cli",
+  "version": "0.1.1",
   "description": "CLI tool for version-aware AI documentation",
   "main": "dist/index.js",
   "bin": {

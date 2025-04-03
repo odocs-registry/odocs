@@ -1,5 +1,5 @@
 {
-  "name": "odocs",
+  "name": "@odocs/monorepo",
   "version": "0.1.0",
   "private": true,
   "workspaces": [
@@ -9,7 +9,9 @@
     "build": "pnpm -r build",
     "dev": "pnpm -r dev",
     "lint": "pnpm -r lint",
-    "test": "pnpm -r test"
+    "test": "pnpm -r test",
+    "bump": "pnpm changeset && pnpm changeset version",
+    "release": "pnpm changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",

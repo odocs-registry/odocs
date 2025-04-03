@@ -1,6 +1,7 @@
 {
-  "name": "odocs-common",
+  "name": "@odocs/common",
   "version": "0.1.0",
+  "private": true,
   "description": "Common utilities and types for ODocs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
