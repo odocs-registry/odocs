@@ -99,7 +99,11 @@ Our current implementation focuses specifically on **Hono 4.7.5**, which already
 - Provides a local API server that connects with AI assistants
 - Demonstrates how version-specific documentation improves code generation
 
-We've also created a [test repository](https://github.com/odocs-registry/odocs/tree/main/__test__) with sample code that you can run to see the prototype in action.
+## Getting started
+
+To get started, visit [@odocs/cli](https://github.com/odocs-registry/odocs/tree/main/packages/cli) for detailed information.
+
+We've also created a [odocs-openai-demo-repository](https://github.com/odocs-registry/odocs-openai-demo) with sample code that you can follow to see the prototype in action.
 
 ## Integration Options
 

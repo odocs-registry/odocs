@@ -1,5 +1,23 @@
 # odocs-cli
 
+## 0.1.6
+
+### Patch Changes
+
+- Version bumping fixed
+
+## 0.1.5
+
+### Patch Changes
+
+- GitHub retrival fixed
+
+## 0.1.4
+
+### Patch Changes
+
+- Documentation source updated from local to github
+
 ## 0.1.3
 
 ### Patch Changes
