@@ -10,7 +10,7 @@
     "dev": "pnpm -r dev",
     "lint": "pnpm -r lint",
     "test": "pnpm -r test",
-    "bump": "pnpm changeset && pnpm changeset version",
+    "bump": "pnpm build && pnpm changeset && pnpm changeset version",
     "release": "pnpm changeset publish"
   },
   "devDependencies": {

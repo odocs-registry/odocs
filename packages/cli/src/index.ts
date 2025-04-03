@@ -8,7 +8,7 @@ const program = new Command();
 
 program
   .name('odocs')
-  .description('Version-aware documentation tool for AI code generation')
+  .description('Solving version blindness in AI-assisted development')
   .version('0.1.0');
 
 program.addCommand(serveCommand);
